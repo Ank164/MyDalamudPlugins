@@ -1,0 +1,19 @@
+[
+    {
+        "Author": "VariableVixen",
+        "Name": "TinyCommands",
+        "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
+        "InternalName": "TinyCmds",
+        "AssemblyVersion": "1.6.0.0",
+        "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1625976232"
+    }
+]
