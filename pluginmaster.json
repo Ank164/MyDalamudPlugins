@@ -7,14 +7,14 @@
         "AssemblyVersion": "2.0.0.0",
         "RepoUrl": "",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
+        "DalamudApiLevel": 4,
         "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633726397"
+        "LastUpdated": "1633726592"
     },
     {
         "Author": "VariableVixen",
@@ -31,6 +31,6 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633726397"
+        "LastUpdated": "1633726592"
     }
 ]
