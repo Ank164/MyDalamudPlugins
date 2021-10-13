@@ -4,7 +4,7 @@
         "Name": "XIV Combo Very Expanded",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "2.0.0.0",
+        "AssemblyVersion": "2.1.0.0",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634148741"
+        "LastUpdated": "1634155338"
     },
     {
         "Author": "VariableVixen",
@@ -31,6 +31,6 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634148741"
+        "LastUpdated": "1634155338"
     }
 ]
