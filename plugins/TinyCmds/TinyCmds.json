@@ -2,10 +2,10 @@
   "Author": "VariableVixen",
   "Name": "TinyCommands",
   "InternalName": "TinyCmds",
-  "AssemblyVersion": "3.0.2.0",
+  "AssemblyVersion": "4.0.0.0",
   "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands",
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0
 }
