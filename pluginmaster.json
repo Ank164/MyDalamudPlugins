@@ -1,6 +1,23 @@
 [
     {
         "Author": "VariableVixen",
+        "Name": "Positional Assistant",
+        "Description": "If you have a hard time telling whether you're in the right spot for positional attacks, this plugin can draw guidelines on your screen to help you tell where you need to be.",
+        "InternalName": "PositionalGuide",
+        "AssemblyVersion": "1.0.8182.2080",
+        "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1653613797"
+    },
+    {
+        "Author": "VariableVixen",
         "Name": "TinyCommands",
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
         "InternalName": "TinyCmds",
@@ -14,7 +31,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1653510636"
+        "LastUpdated": "1653613797"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
@@ -31,6 +48,6 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1653510636"
+        "LastUpdated": "1653613797"
     }
 ]
