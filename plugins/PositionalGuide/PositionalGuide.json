@@ -2,10 +2,11 @@
   "Author": "VariableVixen",
   "Name": "Positional Assistant",
   "InternalName": "PositionalGuide",
-  "AssemblyVersion": "1.1.8189.39534",
+  "AssemblyVersion": "1.1.8190.8009",
   "Description": "If you have a hard time telling whether you're in the right spot for positional attacks, this plugin can draw guidelines on your screen to help you tell where you need to be.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant",
   "DalamudApiLevel": 6,
-  "LoadPriority": 0
+  "LoadPriority": 0,
+  "Punchline": "Never guess whether you'll make that positional again!"
 }
