@@ -4,7 +4,7 @@
         "Name": "Positional Assistant",
         "Description": "If you have a hard time telling whether you're in the right spot for positional attacks, this plugin can draw guidelines on your screen to help you tell where you need to be.",
         "InternalName": "PositionalGuide",
-        "AssemblyVersion": "1.1.8190.8009",
+        "AssemblyVersion": "1.1.8194.20890",
         "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1654688198"
+        "LastUpdated": "1654688216"
     },
     {
         "Author": "VariableVixen",
@@ -31,7 +31,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1654688198"
+        "LastUpdated": "1654688216"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
@@ -48,6 +48,6 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1654688198"
+        "LastUpdated": "1654688216"
     }
 ]
