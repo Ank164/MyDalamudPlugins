@@ -1,20 +1,37 @@
 [
     {
+        "Author": "attick, daemitus, VariableVixen",
+        "Name": "XIV Combo Very Expanded",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+        "InternalName": "XIVComboVX",
+        "AssemblyVersion": "6.0.8254.6712",
+        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1661397909"
+    },
+    {
         "Author": "VariableVixen",
         "Name": "Positional Assistant",
         "Description": "If you have a hard time telling whether you're in the right spot for positional attacks, this plugin can draw guidelines on your screen to help you tell where you need to be.",
         "InternalName": "PositionalGuide",
-        "AssemblyVersion": "1.1.8194.20890",
+        "AssemblyVersion": "2.0.8272.6138",
         "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1659843859"
+        "LastUpdated": "1661397909"
     },
     {
         "Author": "VariableVixen",
@@ -31,23 +48,6 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1659843859"
-    },
-    {
-        "Author": "attick, daemitus, VariableVixen",
-        "Name": "XIV Combo Very Expanded",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-        "InternalName": "XIVComboVX",
-        "AssemblyVersion": "6.0.8254.6712",
-        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1659843859"
+        "LastUpdated": "1661397909"
     }
 ]
