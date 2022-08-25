@@ -4,7 +4,7 @@
         "Name": "XIV Combo Very Expanded",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "7.0.8272.8703",
+        "AssemblyVersion": "7.0.8272.8944",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1661403038"
+        "LastUpdated": "1661403520"
     },
     {
         "Author": "VariableVixen",
@@ -31,7 +31,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1661403038"
+        "LastUpdated": "1661403520"
     },
     {
         "Author": "VariableVixen",
@@ -48,6 +48,6 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1661403038"
+        "LastUpdated": "1661403520"
     }
 ]
