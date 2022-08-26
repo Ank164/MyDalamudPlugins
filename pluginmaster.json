@@ -8,11 +8,11 @@
         "RepoUrl": "https://github.com/Ank164/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
-        "DownloadLinkInstall": "https://github.com/Ank164/MyDalamudPlugins/blob/master/plugins/XIVComboVX/latest.zip?raw=true",
+        "DownloadLinkInstall": "https://github.com/Ank164/MyDalamudPlugins/blob/master/plugins/XIVComboVX/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Ank164/MyDalamudPlugins/blob/master/plugins/XIVComboVX/latest.zip?raw=true",
-        "DownloadLinkUpdate": "https://github.com/Ank164/MyDalamudPlugins/blob/master/plugins/XIVComboVX/latest.zip?raw=true",
+        "DownloadLinkTesting": "https://github.com/Ank164/MyDalamudPlugins/blob/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ank164/MyDalamudPlugins/blob/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1661511812"
     }
