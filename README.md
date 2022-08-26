@@ -1,6 +1,6 @@
 # Vixen's Dalamud Plugins
 
-Drop `https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json` into your third party repo URL list.
+Drop `https://raw.githubusercontent.com/Ank164/MyDalamudPlugins/master/pluginmaster.json` into your third party repo URL list.
 
 ## Detailed Instructions
 
